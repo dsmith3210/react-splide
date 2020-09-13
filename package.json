@@ -5,6 +5,7 @@
   "author": "Naotoshi Fujita",
   "license": "MIT",
   "main": "dist/js/index.js",
+	"types": "src/js/index.d.ts",
   "keywords": [
     "splide",
     "slider",
